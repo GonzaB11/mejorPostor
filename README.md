@@ -12,11 +12,13 @@ This project is an application for managing reservations of a rehearsal room. Us
 - **Data Persistence**: Utilizes serialization to save and retrieve booking information.
 - **Responsive Design**: Ensures smooth user interaction and efficient performance.
 - **Separated Presentation Design**: Implements a structured approach by separating business logic from the UI.
+- **Automated Testing**: Uses JUnit for testing to ensure system reliability.
 
 ## Technologies Used
 - **Java**: Core programming language for business logic.
 - **Windows Builder (JFrame)**: UI design for an intuitive user experience.
 - **Serialization**: Data persistence to store booking records.
+- **JUnit**: Framework for writing and running automated tests.
 
 ## Installation & Usage
 1. Clone the repository:
